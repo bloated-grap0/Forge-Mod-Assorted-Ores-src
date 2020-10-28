@@ -1,0 +1,26 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "assorted_items:emerald_armorboots",
+    "count": 1
+  }
+}

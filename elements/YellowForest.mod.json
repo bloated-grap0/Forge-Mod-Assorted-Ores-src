@@ -1,0 +1,78 @@
+{
+  "_fv": 10,
+  "_type": "biome",
+  "definition": {
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "generateLakes": false,
+    "treeType": 0,
+    "vanillaTreeType": "Birch trees",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "grassColor": {
+      "value": -3355648,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -3355648,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 4,
+    "grassPerChunk": 5,
+    "flowersPerChunk": 2,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 1,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.30000000000000004,
+    "temperature": 0.7,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 5,
+    "biomeType": "DESERT",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAgeable"
+        },
+        "minGroup": 4,
+        "maxGroup": 10,
+        "weight": 25,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityAnimal"
+        },
+        "minGroup": 2,
+        "maxGroup": 2,
+        "weight": 10,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

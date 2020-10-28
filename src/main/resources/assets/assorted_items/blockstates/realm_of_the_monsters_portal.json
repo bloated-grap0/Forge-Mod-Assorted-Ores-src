@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "assorted_items:realm_of_the_monsters_portal_ew"
+    },
+    "axis=x": {
+      "model": "assorted_items:realm_of_the_monsters_portal_ns"
+    },
+    "inventory": {
+      "model": "assorted_items:realm_of_the_monsters_portal_ns"
+    }
+  }
+}

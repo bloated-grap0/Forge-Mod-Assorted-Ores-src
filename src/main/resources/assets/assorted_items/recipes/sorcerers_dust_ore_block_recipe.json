@@ -1,0 +1,42 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "1": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "2": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "3": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "4": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "5": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "6": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "7": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "8": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    }
+  },
+  "result": {
+    "item": "assorted_items:sorcerers_dust_ore_block",
+    "count": 1
+  }
+}

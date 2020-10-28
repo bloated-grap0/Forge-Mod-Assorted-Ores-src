@@ -1,0 +1,42 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:painite_gem"
+    },
+    "1": {
+      "item": "assorted_items:painite_gem"
+    },
+    "2": {
+      "item": "assorted_items:painite_gem"
+    },
+    "3": {
+      "item": "assorted_items:painite_gem"
+    },
+    "4": {
+      "item": "assorted_items:painite_gem"
+    },
+    "5": {
+      "item": "assorted_items:painite_gem"
+    },
+    "6": {
+      "item": "assorted_items:painite_gem"
+    },
+    "7": {
+      "item": "assorted_items:painite_gem"
+    },
+    "8": {
+      "item": "assorted_items:painite_gem"
+    }
+  },
+  "result": {
+    "item": "assorted_items:painite_ore_block",
+    "count": 1
+  }
+}

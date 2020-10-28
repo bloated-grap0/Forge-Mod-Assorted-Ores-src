@@ -1,0 +1,26 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:ice_patrollers_gem_gem"
+    },
+    "2": {
+      "item": "assorted_items:ice_patrollers_gem_gem"
+    },
+    "3": {
+      "item": "assorted_items:ice_patrollers_gem_gem"
+    },
+    "5": {
+      "item": "assorted_items:ice_patrollers_gem_gem"
+    }
+  },
+  "result": {
+    "item": "assorted_items:ice_armorboots",
+    "count": 1
+  }
+}

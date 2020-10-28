@@ -1,0 +1,24 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:titanium_ingot"
+    },
+    "1": {
+      "item": "assorted_items:titanium_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "assorted_items:titanium_sword",
+    "count": 1
+  }
+}

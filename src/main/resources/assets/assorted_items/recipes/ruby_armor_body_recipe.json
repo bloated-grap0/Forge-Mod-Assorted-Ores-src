@@ -1,0 +1,39 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:ruby_gem"
+    },
+    "2": {
+      "item": "assorted_items:ruby_gem"
+    },
+    "3": {
+      "item": "assorted_items:ruby_gem"
+    },
+    "4": {
+      "item": "assorted_items:ruby_gem"
+    },
+    "5": {
+      "item": "assorted_items:ruby_gem"
+    },
+    "6": {
+      "item": "assorted_items:ruby_gem"
+    },
+    "7": {
+      "item": "assorted_items:ruby_gem"
+    },
+    "8": {
+      "item": "assorted_items:ruby_gem"
+    }
+  },
+  "result": {
+    "item": "assorted_items:ruby_armorbody",
+    "count": 1
+  }
+}

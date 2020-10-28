@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "axeofpeace",
+    "customModelName": "Normal",
+    "name": "The Axe Of Peace",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 0.5,
+    "attackSpeed": 1.6,
+    "enchantability": 4,
+    "damageVsEntity": 7.3,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

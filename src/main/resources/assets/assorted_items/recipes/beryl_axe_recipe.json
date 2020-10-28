@@ -1,0 +1,30 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:beryl_gem"
+    },
+    "1": {
+      "item": "assorted_items:beryl_gem"
+    },
+    "2": {
+      "item": "assorted_items:beryl_gem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "assorted_items:beryl_axe",
+    "count": 1
+  }
+}

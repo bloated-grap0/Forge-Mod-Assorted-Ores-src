@@ -1,0 +1,29 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:steel_ingot"
+    },
+    "1": {
+      "item": "assorted_items:steel_ingot"
+    },
+    "2": {
+      "item": "assorted_items:steel_ingot"
+    },
+    "3": {
+      "item": "assorted_items:steel_ingot"
+    },
+    "5": {
+      "item": "assorted_items:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "assorted_items:steel_armorhelmet",
+    "count": 1
+  }
+}

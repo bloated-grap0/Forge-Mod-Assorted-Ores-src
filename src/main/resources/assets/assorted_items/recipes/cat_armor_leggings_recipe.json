@@ -1,0 +1,36 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:record_far"
+    },
+    "1": {
+      "item": "minecraft:record_far"
+    },
+    "2": {
+      "item": "minecraft:record_far"
+    },
+    "3": {
+      "item": "minecraft:record_far"
+    },
+    "5": {
+      "item": "minecraft:record_far"
+    },
+    "6": {
+      "item": "minecraft:record_far"
+    },
+    "8": {
+      "item": "minecraft:record_far"
+    }
+  },
+  "result": {
+    "item": "assorted_items:cat_armorlegs",
+    "count": 1
+  }
+}

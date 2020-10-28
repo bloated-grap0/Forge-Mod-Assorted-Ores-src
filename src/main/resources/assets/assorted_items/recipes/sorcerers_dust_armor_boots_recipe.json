@@ -1,0 +1,26 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "2": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "3": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    },
+    "5": {
+      "item": "assorted_items:sorcerers_dust_dust"
+    }
+  },
+  "result": {
+    "item": "assorted_items:sorcerers_dust_armorboots",
+    "count": 1
+  }
+}

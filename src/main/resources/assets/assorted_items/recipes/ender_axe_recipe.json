@@ -1,0 +1,30 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ender_eye"
+    },
+    "1": {
+      "item": "minecraft:ender_eye"
+    },
+    "2": {
+      "item": "minecraft:ender_eye"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "assorted_items:ender_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 10,
+  "_type": "fluid",
+  "definition": {
+    "name": "CrudeOil",
+    "textureStill": "crudeoilstill",
+    "textureFlowing": "crudeoilflowing",
+    "luminosity": 1,
+    "density": 1000,
+    "viscosity": 3002,
+    "isGas": false,
+    "type": "LAVA",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "spawnWorldTypes": [
+      "Surface"
+    ]
+  }
+}

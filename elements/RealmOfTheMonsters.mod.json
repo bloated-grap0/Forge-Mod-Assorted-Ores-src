@@ -1,0 +1,60 @@
+{
+  "_fv": 10,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.ENDER_CHEST"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.09999999999999999,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Realm Of The Monsters Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "magnetite_dust",
+    "portalTexture": "crudeoilstill",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:YellowForest"
+      },
+      {
+        "value": "CUSTOM:ExtremeDesert"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:CrudeOil"
+    },
+    "airColor": {
+      "value": -4138753,
+      "frgbvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "fvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "falpha": 1.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

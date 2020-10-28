@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "assorted_items:blocks/tungsten_ore_block",
+    "up": "assorted_items:blocks/tungsten_ore_block",
+    "north": "assorted_items:blocks/tungsten_ore_block",
+    "east": "assorted_items:blocks/tungsten_ore_block",
+    "south": "assorted_items:blocks/tungsten_ore_block",
+    "west": "assorted_items:blocks/tungsten_ore_block",
+    "particle": "assorted_items:blocks/tungsten_ore_block"
+  }
+}

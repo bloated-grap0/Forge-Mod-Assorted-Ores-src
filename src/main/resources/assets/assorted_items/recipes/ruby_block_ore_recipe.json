@@ -1,0 +1,13 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "assorted_items:ruby_ore_block"
+    }
+  ],
+  "result": {
+    "item": "assorted_items:ruby_gem",
+    "count": 9
+  }
+}

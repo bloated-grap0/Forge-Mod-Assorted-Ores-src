@@ -1,0 +1,19 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:salt"
+    },
+    "1": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "assorted_items:salted_meat",
+    "count": 1
+  }
+}

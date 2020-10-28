@@ -1,0 +1,70 @@
+{
+  "_fv": 10,
+  "_type": "biome",
+  "definition": {
+    "groundBlock": {
+      "value": "Blocks.STAINED_HARDENED_CLAY#0"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STAINED_HARDENED_CLAY#1"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 0,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 2,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 3,
+    "gravelPatchesPerChunk": 1,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 2,
+    "rainingPossibility": 0.19999999999999998,
+    "temperature": 0.7999999999999999,
+    "baseHeight": 1.5,
+    "heightVariation": 0.1,
+    "spawnBiome": true,
+    "biomeWeight": 4,
+    "biomeType": "DESERT",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAgeable"
+        },
+        "minGroup": 5,
+        "maxGroup": 6,
+        "weight": 25,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityAgeable"
+        },
+        "minGroup": 2,
+        "maxGroup": 3,
+        "weight": 13,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:barrier"
+    },
+    "2": {
+      "item": "minecraft:barrier"
+    },
+    "3": {
+      "item": "minecraft:barrier"
+    },
+    "5": {
+      "item": "minecraft:barrier"
+    }
+  },
+  "result": {
+    "item": "assorted_items:barrier_armorboots",
+    "count": 1
+  }
+}

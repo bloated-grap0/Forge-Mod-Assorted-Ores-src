@@ -1,0 +1,30 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:barrier"
+    },
+    "1": {
+      "item": "minecraft:barrier"
+    },
+    "2": {
+      "item": "minecraft:barrier"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "assorted_items:barrier_pickaxe",
+    "count": 1
+  }
+}

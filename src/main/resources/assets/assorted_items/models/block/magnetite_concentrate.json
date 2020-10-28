@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "assorted_items:blocks/magnetite_ore_block",
+    "up": "assorted_items:blocks/magnetite_ore_block",
+    "north": "assorted_items:blocks/tungsten_ore",
+    "east": "assorted_items:blocks/tungsten_ore",
+    "south": "assorted_items:blocks/tungsten_ore",
+    "west": "assorted_items:blocks/tungsten_ore",
+    "particle": "assorted_items:blocks/magnetite_ore_block"
+  }
+}
