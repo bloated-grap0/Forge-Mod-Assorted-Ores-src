@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "onehundreddownloadssword",
+    "customModelName": "Normal",
+    "name": "One Hundred Downloads Sword",
+    "specialInfo": [
+      "Thanks For The 100 Downloads :)"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.5,
+    "enchantability": 2,
+    "damageVsEntity": 5.3,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

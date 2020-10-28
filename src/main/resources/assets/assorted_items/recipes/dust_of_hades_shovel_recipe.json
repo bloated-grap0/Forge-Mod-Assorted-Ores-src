@@ -1,0 +1,24 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:dust_of_hades_dust"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "assorted_items:dust_of_hades_shovel",
+    "count": 1
+  }
+}

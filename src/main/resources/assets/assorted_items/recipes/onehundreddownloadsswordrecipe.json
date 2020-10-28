@@ -1,0 +1,24 @@
+{
+  "group": "assorted_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "assorted_items:onehundreddownloadscreatureseye"
+    },
+    "1": {
+      "item": "assorted_items:onehundreddownloadscreatureseye"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "assorted_items:one_hundred_downloads_sword",
+    "count": 1
+  }
+}
